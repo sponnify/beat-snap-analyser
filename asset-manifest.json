@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/beat-snap-analyser/static/css/main.6e67f4af.css",
+    "main.js": "/beat-snap-analyser/static/js/main.4bf20daa.js",
+    "index.html": "/beat-snap-analyser/index.html",
+    "main.6e67f4af.css.map": "/beat-snap-analyser/static/css/main.6e67f4af.css.map",
+    "main.4bf20daa.js.map": "/beat-snap-analyser/static/js/main.4bf20daa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e67f4af.css",
+    "static/js/main.4bf20daa.js"
+  ]
+}
